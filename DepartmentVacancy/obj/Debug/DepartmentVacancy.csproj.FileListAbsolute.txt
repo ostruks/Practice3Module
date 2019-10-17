@@ -1,0 +1,10 @@
+C:\Ostruks\Practice3Module\DepartmentVacancy\bin\Debug\DepartmentVacancy.exe.config
+C:\Ostruks\Practice3Module\DepartmentVacancy\bin\Debug\DepartmentVacancy.exe
+C:\Ostruks\Practice3Module\DepartmentVacancy\bin\Debug\DepartmentVacancy.pdb
+C:\Ostruks\Practice3Module\DepartmentVacancy\bin\Debug\Library.dll
+C:\Ostruks\Practice3Module\DepartmentVacancy\bin\Debug\Library.pdb
+C:\Ostruks\Practice3Module\DepartmentVacancy\obj\Debug\DepartmentVacancy.csprojAssemblyReference.cache
+C:\Ostruks\Practice3Module\DepartmentVacancy\obj\Debug\DepartmentVacancy.csproj.CoreCompileInputs.cache
+C:\Ostruks\Practice3Module\DepartmentVacancy\obj\Debug\DepartmentVacancy.csproj.CopyComplete
+C:\Ostruks\Practice3Module\DepartmentVacancy\obj\Debug\DepartmentVacancy.exe
+C:\Ostruks\Practice3Module\DepartmentVacancy\obj\Debug\DepartmentVacancy.pdb

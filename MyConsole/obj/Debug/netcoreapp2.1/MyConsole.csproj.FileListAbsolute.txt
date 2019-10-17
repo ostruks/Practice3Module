@@ -1,0 +1,14 @@
+C:\Ostruks\Practice3Module\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.deps.json
+C:\Ostruks\Practice3Module\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.runtimeconfig.json
+C:\Ostruks\Practice3Module\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.runtimeconfig.dev.json
+C:\Ostruks\Practice3Module\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.dll
+C:\Ostruks\Practice3Module\MyConsole\bin\Debug\netcoreapp2.1\MyConsole.pdb
+C:\Ostruks\Practice3Module\MyConsole\bin\Debug\netcoreapp2.1\Library.dll
+C:\Ostruks\Practice3Module\MyConsole\bin\Debug\netcoreapp2.1\Library.pdb
+C:\Ostruks\Practice3Module\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.csprojAssemblyReference.cache
+C:\Ostruks\Practice3Module\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.csproj.CoreCompileInputs.cache
+C:\Ostruks\Practice3Module\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.AssemblyInfoInputs.cache
+C:\Ostruks\Practice3Module\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.AssemblyInfo.cs
+C:\Ostruks\Practice3Module\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.csproj.CopyComplete
+C:\Ostruks\Practice3Module\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.dll
+C:\Ostruks\Practice3Module\MyConsole\obj\Debug\netcoreapp2.1\MyConsole.pdb

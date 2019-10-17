@@ -1,0 +1,5 @@
+1; Ivanov I.I.; Bachelor; Programmer Engineer; 1900
+2; Petrov P.P.; Master; Team Lead; 1950
+3; Sidorov S.S.; Super Master; Software Architect; 1990
+4; Johnson J.J.; Super Bachelor; HTML-coder; 1997
+5; Nicolson J.J.; Bachelor; DevOps engineer; 1992
